@@ -5,7 +5,7 @@ from setuptools import setup
 setup(
     name='pre_commit_hooks',
     description='rubocop pre commit hook.',
-    url='https://github.com/jordant/rubocop-pre-commit-hook',
+    url='https://github.com/fzylogic/rubocop-pre-commit-hook',
     version='0.1',
 
     author='Jordan Tardif',
